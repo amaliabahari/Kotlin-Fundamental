@@ -1,6 +1,20 @@
 # Kotlin-Fundamental Part 2
 
 # Numbers
+    fun main () {
+    val panjang = "20"
+    val lebar = 12.6
+    val tinggi = 10
+    val volume: Double
+
+    println("Volume dari balok yang mempunyai  " + panjang + lebar
+    + tinggi))
+    }
+    fun hitungVolume (p : Double, l : Double, t : Double) : Float
+    {
+        val v = p * l * t
+    println("ini adalah" + v)
+    }
 
 # Nullable Types
 
