@@ -104,5 +104,4 @@
     } else{
         println("Nilai kamu " + nilai + " silahkan ikut remidi!")
     }
-}
  
